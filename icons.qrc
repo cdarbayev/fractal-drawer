@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/draw.svg</file>
+        <file>icons/preferences.svg</file>
+        <file>icons/abort.svg</file>
+        <file>icons/quit.svg</file>
+    </qresource>
+</RCC>
